@@ -1,0 +1,1 @@
+These files are past assignments that garnered grades of 90 or greater (85+ for exams). They include work done analyzing real world agriculture and natural resource system data sets. Using econometric regressions and forecast modeling to provide useful insights in applied economics. 
